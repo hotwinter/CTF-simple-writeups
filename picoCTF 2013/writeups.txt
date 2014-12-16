@@ -1,3 +1,6 @@
+picoCTF 2013
+========================================================================
+
 1. Failure to Boot:
 google ERROR: 0x00000023 gives FAT_FILE_SYSTEM, hence the answer is FAT
 
