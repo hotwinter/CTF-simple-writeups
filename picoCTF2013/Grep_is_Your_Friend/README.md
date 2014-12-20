@@ -1,11 +1,14 @@
-Grep is Your Friend
+# Grep is Your Friend
 
-Problem:
-After plugging the robot into the computer, the robot asks for the name of a file containing the string SECRET AUTH CODE. You can find it using the command-line interface in /problems/grep.tar or by downloading all of the files.
+* Problem:
 
-Solution:
-Download the file, and write a bash script 
+  After plugging the robot into the computer, the robot asks for the name of a file containing the string SECRET AUTH CODE. You can find it using the command-line interface in `/problems/grep.tar` or by downloading all of the files.
 
-Answer:
-fHYYpdrfeOCHyQicfe96xfw==
+* Solution:
+
+  Download the file, and write a bash script 
+
+* Answer:
+
+  fHYYpdrfeOCHyQicfe96xfw==
 
