@@ -7,7 +7,7 @@
 * Solution:
 
   Since it's a gif file, executing 
-convert spaceportmap.gif out%d.pgm
+`convert spaceportmap.gif out%d.pgm`
 and check out3.pgm reveals the flag 
 
 * Answer:
