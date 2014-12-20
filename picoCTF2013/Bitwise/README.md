@@ -1,5 +1,5 @@
-Bitwise
-
+Bitwise\n
+\n
 Problem:
 You see the doors to the loading bay of the hangar, but they are locked. However, you are able to extract the password verification program from the control panel... Can you find the password to gain access to the loading bay?
 
