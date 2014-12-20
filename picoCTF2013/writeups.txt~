@@ -1,0 +1,27 @@
+picoCTF 2013
+========================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. Injection
+This is a sql injection, enter query string 1' or '1' = '1
+This will get all entries in the database, check for admin
+flag is: bad_code_and_databases_is_no_fun
+
+
+
