@@ -1,5 +1,5 @@
 # CTF-simple-writeups
-- - - -
+
 my own CTF writeup for several competitions
 
 Currently Includes

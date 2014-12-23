@@ -4,7 +4,7 @@
 
   Use the Loading Bay Control System to get the admin key! [Problem](https://2013.picoctf.com/problems/injection/)
 
-Hint: The SQL query being performed is something a lot like SELECT username,hash FROM pwtable WHERE username= your_input 
+  Hint: The SQL query being performed is something a lot like SELECT username,hash FROM pwtable WHERE username= your_input 
 
 * Solution:
 
