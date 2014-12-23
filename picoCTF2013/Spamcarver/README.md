@@ -13,3 +13,5 @@
 * Answer:
 
   7adf6f07e0810003c585a7be97868a90
+  
+  (I've also searched how to create this kind of image, it turns out you can easily create it by `cat image.jpg compressed.zip > new.jpg`)
