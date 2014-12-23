@@ -6,7 +6,7 @@
 
 * Solution:
 
-  The website given by the hint of this problem in my opinion is hard to follow, hence I think this website is actually better. Read this website and understand it first[CBC](http://blog.gdssecurity.com/labs/2010/9/14/automated-padding-oracle-attacks-with-padbuster.html) The website gives a thorough introduction to what is padding oracle attack and how it works. I've also included the encryption and decryption diagram in under this directory. There are also some papers to help the understanding of padding oracle (they didn't really help me though...)
+  The website given by the hint of this problem in my opinion is hard to follow, hence I think this website is actually better. Read this website and understand it first [CBC](http://blog.gdssecurity.com/labs/2010/9/14/automated-padding-oracle-attacks-with-padbuster.html) The website gives a thorough introduction to what is padding oracle attack and how it works. I've also included the encryption and decryption diagram in under this directory. There are also some papers to help the understanding of padding oracle (they didn't really help me though...)
 
   MAKE SURE YOU UNDERSTAND CBC DECRYPTION AND ENCRYPTION AND PADDING ORACLE DECRYPTION BEFORE READING ON!!!!
 
@@ -34,6 +34,5 @@
 
 * Answer:
   
-NOW_YOURE_BASICALLY_A_POET
-  
+  NOW_YOURE_BASICALLY_A_POET
   (There's a pun in this flag: POET(Padding Oracle Exploitation Tool))
