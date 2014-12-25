@@ -8,7 +8,7 @@
 
   To handle large numbers easily, we use python. Following the [RSA description](http://en.wikipedia.org/wiki/RSA_%28cryptosystem%29), we can write a python script to decrypt it.
 
-NOTE pow(a, b, c) can computer a**b % c very fast!
+NOTE `pow(a, b, c)` can computer a**b % c very fast!
 
 * Answer:
 

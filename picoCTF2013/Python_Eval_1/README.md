@@ -6,9 +6,9 @@
 
 * Solution:
 
-  Our job is to find the flag in the script task1.py. Since we know input() is actually eval(raw_input()), we can enter x for whatever value, and enter y with the expression including x.
+  Our job is to find the flag in the script task1.py. Since we know `input()` is actually `eval(raw_input())`, we can enter x for whatever value, and enter y with the expression including x.
 
-  For example, we can enter the first value as 0, and the second value as (7-x) * 6 / 5, This will satisfy the if statement, hence we will get the flag
+  For example, we can enter the first value as `0`, and the second value as `(7-x) * 6 / 5`, This will satisfy the if statement, hence we will get the flag
 
 * Answer:
 

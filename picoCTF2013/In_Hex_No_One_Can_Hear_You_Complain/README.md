@@ -6,7 +6,7 @@
 
 * Solution:
 
-  We open the .docx file, in there it says there is a hidden image in this file. Also zipped is highlighted. Hence we get the idea to open .docx as a zip file(The header 50 4B 03 04 also suggested zip for the first two bytes) In ubuntu, we can use archive manager to open it, locate to media, and we found the key.png
+  We open the .docx file, in there it says there is a hidden image in this file. Also zipped is highlighted. Hence we get the idea to open .docx as a zip file(The header `50 4B 03 04` also suggested zip for the first two bytes) In ubuntu, we can use archive manager to open it, locate to media, and we found the key.png
  
 * Answer:
 

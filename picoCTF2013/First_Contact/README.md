@@ -9,13 +9,7 @@ You suspect that the robot is communicating with the crashed ship. Your goal is 
 
   Viewing on Cloudshark The longest length one gives
 
-  NEW LOCATI
-ON COORDINATES: 
-37 14'06"N 115 4
-8'40"W..NEW LOCA
-TION INFO: LOCKE
-D..NEW LOCATION 
-UPDATE COMPLETE
+  `NEW LOCATION COORDINATES: 37 14'06"N 115 48'40"W..NEW LOCATION INFO: LOCKED..NEW LOCATION UPDATE COMPLETE`
 
 * Answer:
 
