@@ -31,7 +31,8 @@ Currently includes(increase by points)
 * DDos Detection (85)
 * Dark Star (110)
 * Injection (110)
-* Broken CBC (125) 
+* Broken CBC (125)
+* Broken RSA (180)
 
 
 
